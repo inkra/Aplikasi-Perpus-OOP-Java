@@ -15,3 +15,7 @@ Aplikasi Perpus menggunakan OOP Java
 <h1>DIAGRAM PERPUS</h1>
 
 ![Perpus (1)](https://user-images.githubusercontent.com/65702027/140890526-2af95fb5-201d-41ec-a130-0d9a5f13b821.png)
+
+
+<br>
+<h1>OUTPUT</h1>
